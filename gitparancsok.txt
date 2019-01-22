@@ -6,3 +6,4 @@ git fetch
 git commit
 git push 
 git pull
+git revert 
