@@ -8,3 +8,4 @@ git push
 git pull
 git revert 
 git reset 
+git reset --hard 
