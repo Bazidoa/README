@@ -1,2 +1,2 @@
 # README
-Firts time using Github
+First time using Github
