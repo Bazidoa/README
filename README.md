@@ -1,2 +1,3 @@
 # README
-First time using Github
+My First Repository
+Batch files, course exercise
